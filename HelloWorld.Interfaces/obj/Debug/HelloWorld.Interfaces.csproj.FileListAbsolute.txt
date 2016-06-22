@@ -1,0 +1,5 @@
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.Interfaces\bin\Debug\HelloWorld.Interfaces.dll
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.Interfaces\bin\Debug\HelloWorld.Interfaces.pdb
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.Interfaces\obj\Debug\HelloWorld.Interfaces.dll
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.Interfaces\obj\Debug\HelloWorld.Interfaces.pdb
+C:\Users\MReynolds\documents\visual studio 2015\Projects\HelloWorld.Interfaces\obj\Debug\HelloWorld.Interfaces.csprojResolveAssemblyReference.cache

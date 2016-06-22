@@ -1,0 +1,7 @@
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.WebAPI.ServiceLayer\bin\Debug\HelloWorld.WebAPI.ServiceLayer.dll
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.WebAPI.ServiceLayer\bin\Debug\HelloWorld.WebAPI.ServiceLayer.pdb
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.WebAPI.ServiceLayer\bin\Debug\HelloWorld.Interfaces.dll
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.WebAPI.ServiceLayer\bin\Debug\HelloWorld.Interfaces.pdb
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.WebAPI.ServiceLayer\obj\Debug\HelloWorld.WebAPI.ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.WebAPI.ServiceLayer\obj\Debug\HelloWorld.WebAPI.ServiceLayer.dll
+C:\Users\MReynolds\Documents\Visual Studio 2015\Projects\HelloWorld.WebAPI.ServiceLayer\obj\Debug\HelloWorld.WebAPI.ServiceLayer.pdb
